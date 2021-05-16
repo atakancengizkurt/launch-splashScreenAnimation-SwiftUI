@@ -11,6 +11,7 @@
 		E86FE6C02651358700B70475 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86FE6BF2651358700B70475 /* ContentView.swift */; };
 		E86FE6C22651358800B70475 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E86FE6C12651358800B70475 /* Assets.xcassets */; };
 		E86FE6C52651358800B70475 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E86FE6C42651358800B70475 /* Preview Assets.xcassets */; };
+		E86FE6CD265139DD00B70475 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E86FE6CC265139DD00B70475 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		E86FE6C12651358800B70475 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E86FE6C42651358800B70475 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E86FE6C62651358800B70475 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E86FE6CC265139DD00B70475 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				E86FE6BD2651358700B70475 /* Launch___Splash_Screen_Animation___SwiftUIApp.swift */,
 				E86FE6BF2651358700B70475 /* ContentView.swift */,
+				E86FE6CC265139DD00B70475 /* Launch Screen.storyboard */,
 				E86FE6C12651358800B70475 /* Assets.xcassets */,
 				E86FE6C62651358800B70475 /* Info.plist */,
 				E86FE6C32651358800B70475 /* Preview Content */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E86FE6CD265139DD00B70475 /* Launch Screen.storyboard in Resources */,
 				E86FE6C52651358800B70475 /* Preview Assets.xcassets in Resources */,
 				E86FE6C22651358800B70475 /* Assets.xcassets in Resources */,
 			);
